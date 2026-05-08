@@ -1,2 +1,3 @@
 # demo
-introduction to git
+introduction to git. 
+auther: kalindigadhia
